@@ -1,0 +1,24 @@
+{
+  "name": "useful_javascript_snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tTab1204/useful_javascript_snippets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tTab1204/useful_javascript_snippets/issues"
+  },
+  "homepage": "https://github.com/tTab1204/useful_javascript_snippets#readme",
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
